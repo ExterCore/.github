@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo+Semua+👋;+Gue+Sobing;" />
 </h1>
 
-## SELAMAT DATANG DI PAGE KAMI. SEMOGA TAIK MU WARNA WARNI
+## SELAMAT DATANG DI PAGE KAMI. TEKAN TOMBOL FOLLOW UNTUK MENDAPATKAN INFORMASI LEBIH LANJUT DARI KAMI
 
 
 
