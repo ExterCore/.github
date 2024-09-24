@@ -10,7 +10,7 @@
 
 EXTERFRAMEWORK IS ONE OF THE FIVEM FRAMEWORKS BASED ON QBCORE. AND MADE SOME SCRIPTS WITH QBCORE FRAMEWORK BASE. ESTABLISHED IN 2024 RECENTLY. 
 
-[EXGERCITY 2.0](https://discord.gg/extercity)
+[EXTERCITY 2.0](https://discord.gg/extercity)
 
 [DONATION](https://sociabuzz.com/_sobing_/tribe)
 
