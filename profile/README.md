@@ -4,7 +4,7 @@
 
 ## PLEASE DOWNLOAD ALL THE SCRIPTS IF SOMETHING HAPPENED TO ME OR THIS PAGE DISAPPEARED SUDDENLY YOU ALREADY HAVE ALL THE SCRIPTS THAT I SHARE. THANK YOU TO ALL OF YOU
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4413beats&label=Profile%20views&color=0e75b6&style=flat" alt="4413beats" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=4413beats&label=Profile%20views&color=00FF40&style=flat" alt="4413beats" /> </p>
 
 **ABOUT US:**
 
