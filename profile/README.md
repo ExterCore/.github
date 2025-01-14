@@ -12,15 +12,13 @@ EXTERFRAMEWORK IS ONE OF THE FIVEM FRAMEWORKS BASED ON QBCORE. AND MADE SOME SCR
 
 
 ## COMMUNITY
-[ROLEPLAY](https://discord.gg/extercity)
+[DOCS](https://exterframework.gitbook.io/exterframework)
 
 [HQ](https://discord.gg/8YnXWSCTFj)
 
 
 ## DONATION
 [Sociabuzz](https://sociabuzz.com/_sobing_/tribe)
-
-[Paypal](https://www.paypal.com/paypalme/alifhakim626)
 
 
 <h3 align="left">Languages and Tools:</h3>
