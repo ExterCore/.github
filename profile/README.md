@@ -16,6 +16,8 @@ EXTERFRAMEWORK IS ONE OF THE FIVEM FRAMEWORKS BASED ON QBCORE. AND MADE SOME SCR
 
 [HQ](https://discord.gg/8YnXWSCTFj)
 
+[DMCA](https://www.dmca.com/r/0257j0y)
+
 
 ## DONATION
 [Sociabuzz](https://sociabuzz.com/_sobing_/tribe)
