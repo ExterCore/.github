@@ -40,3 +40,7 @@ EXTERFRAMEWORK IS ONE OF THE FIVEM FRAMEWORKS BASED ON QBCORE. AND MADE SOME SCR
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<a href="//www.dmca.com/Protection/Status.aspx?ID=b045961f-6140-460a-8fe2-e2f947243491" title="DMCA.com Protection Status" class="dmca-badge"> 
+<img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=b045961f-6140-460a-8fe2-e2f947243491"  alt="DMCA.com Protection Status" /></a>
+<script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
