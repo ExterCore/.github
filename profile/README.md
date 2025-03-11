@@ -42,3 +42,7 @@ EXTERFRAMEWORK IS ONE OF THE FIVEM FRAMEWORKS BASED ON QBCORE. AND MADE SOME SCR
 ## DMCA PROTECTED
 <a href="https://www.dmca.com/r/0257j0y" title="DMCA.com Protection Status" class="dmca-badge"> 
 <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=b045961f-6140-460a-8fe2-e2f947243491"  alt="DMCA.com Protection Status" /></a>
+
+
+
+<a href="//www.dmca.com/Protection/Status.aspx?ID=0bc801ac-2d38-4589-83a2-84691738a76a" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=0bc801ac-2d38-4589-83a2-84691738a76a"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
