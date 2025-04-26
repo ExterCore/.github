@@ -41,6 +41,3 @@ With over 7 years of experience in modding, including significant contributions 
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-## DMCA PROTECTED
-<a href="//www.dmca.com/Protection/Status.aspx?ID=0bc801ac-2d38-4589-83a2-84691738a76a" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=0bc801ac-2d38-4589-83a2-84691738a76a"  alt="DMCA.com Protection Status" /></a>
