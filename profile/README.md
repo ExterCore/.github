@@ -9,7 +9,9 @@
 
 **ABOUT US:**
 
-EXTERFRAMEWORK IS ONE OF THE FIVEM FRAMEWORKS BASED ON QBCORE. AND MADE SOME SCRIPTS WITH QBCORE FRAMEWORK BASE. ESTABLISHED IN 2024 RECENTLY. 
+ExterFramework is a cutting-edge framework for FiveM, built upon the robust and versatile QBCore system. Designed to enhance the gaming experience, ExterFramework incorporates a range of custom scripts that seamlessly integrate with QBCore, offering enhanced functionality and performance. Established in 2024, ExterFramework was created with the vision of delivering high-quality, innovative tools for FiveM developers and server owners.
+
+With over 7 years of experience in modding, including significant contributions to the development of the renowned Kiddion’s Modest Menu for GTA Online, ExterFramework is the product of years of expertise in gaming and modification. Our framework is engineered to provide a strong foundation for building immersive, dynamic roleplay environments, offering an extensive collection of features that can be easily customized to suit various gameplay styles. Whether you are looking to develop intricate systems for banking, law enforcement, or custom missions, ExterFramework serves as a powerful, flexible solution for your FiveM server needs.
 
 
 ## COMMUNITY
