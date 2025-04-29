@@ -41,3 +41,5 @@ With over 7 years of experience in modding, including significant contributions 
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+[DMCA PROTECTED](https://www.dmca.com/r/0257j0y)
