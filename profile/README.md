@@ -1,7 +1,5 @@
 ## THANK YOU FOR USING THIS SCRIPT. HOPE YOU ENJOY
 
-![Flag_of_Palestine svg](https://github.com/user-attachments/assets/b001261f-c515-4261-b033-c7a9395c8ffa)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4413beats&label=Profile%20views&color=00FF40&style=flat" alt="4413beats" /> </p>
 
@@ -39,5 +37,8 @@ With over 7 years of experience in modding, including significant contributions 
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+![Flag_of_Palestine svg](https://github.com/user-attachments/assets/493ef98d-8f56-474a-b79c-6703840be6b9)
+
 
 [DMCA PROTECTED](https://www.dmca.com/r/0257j0y)
