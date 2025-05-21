@@ -38,7 +38,6 @@ With over 7 years of experience in modding, including significant contributions 
   />
 </picture>
 
-![Flag_of_Palestine svg](https://github.com/user-attachments/assets/493ef98d-8f56-474a-b79c-6703840be6b9)
-
+![PL](https://github.com/user-attachments/assets/db78c870-f4a0-40b6-98c1-bda79f0b5ac4)
 
 [DMCA PROTECTED](https://www.dmca.com/r/0257j0y)
