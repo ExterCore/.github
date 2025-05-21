@@ -1,9 +1,6 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=NGOCEH+LU;+JELEK;&color=00FF00" />
-</h1>
-
-
 ## THANK YOU FOR USING THIS SCRIPT. HOPE YOU ENJOY
+
+# 🇵🇸
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4413beats&label=Profile%20views&color=00FF40&style=flat" alt="4413beats" /> </p>
 
