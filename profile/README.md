@@ -1,6 +1,7 @@
 ## THANK YOU FOR USING THIS SCRIPT. HOPE YOU ENJOY
 
-# 🇵🇸
+![Flag_of_Palestine svg](https://github.com/user-attachments/assets/b001261f-c515-4261-b033-c7a9395c8ffa)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4413beats&label=Profile%20views&color=00FF40&style=flat" alt="4413beats" /> </p>
 
