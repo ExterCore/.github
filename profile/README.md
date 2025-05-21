@@ -1,3 +1,6 @@
+![PL](https://github.com/user-attachments/assets/f79a878d-227b-4e7f-9f6f-5d9c409ba19d)
+
+
 ## THANK YOU FOR USING THIS SCRIPT. HOPE YOU ENJOY
 
 
@@ -37,7 +40,5 @@ With over 7 years of experience in modding, including significant contributions 
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-![PL](https://github.com/user-attachments/assets/db78c870-f4a0-40b6-98c1-bda79f0b5ac4)
 
 [DMCA PROTECTED](https://www.dmca.com/r/0257j0y)
